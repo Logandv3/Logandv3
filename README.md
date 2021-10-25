@@ -102,7 +102,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+Please bear with me, I am in the process of creating my own personal site! 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
