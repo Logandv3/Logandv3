@@ -12,7 +12,7 @@
 - I am currently strengthening my skills in React.js and branching out to try complimentary technologies  
   
 
-- 💡 Short term plans:  I plan to dig in to backend development a bit more to gain a better breadth of understanding. 
+- 💡 Short term plans:  <br> I plan to dig in to backend development a bit more to gain a better breadth of understanding. 
  I am enthusiastic to learn how to manage the storage and flow of data better  
   
 
@@ -20,7 +20,7 @@
   
 - 💡 Useful Info About Me:  <br> I am fascinated by many science & engineering topics like applied physics, engineering and mathematics.  I have been intrigued by human health & physiology since my first class in highschool.  I am a proponent of neuorodiversity and supporting the mental health of family, friends and coworkers.  From my perspective, I have yet to be proven wrong that there is something valuable to learn from every person that I interact with regardless of how bitter, angry, jaded, nasty, uncooperative or negative that person may seem.
 
-- 🍿 Unnecessary Fact About Me:  My music collection is pretty diverse.  When playing on shuffle I frequently get the question, "What are we listening to right now?"  
+- 🍿 Unnecessary Fact About Me:  <br> My music collection is pretty diverse.  When playing on shuffle I frequently get the question, "What are we listening to right now?"  
   
 
 <br/>  
