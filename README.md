@@ -58,7 +58,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /> 
-<img style="margin: 10px" src="http://www.onlinewebfonts.com/icon">Icon Fonts</a> is licensed by CC BY 3.0</div>" alt="Bash" height="50" />
+<img style="margin: 10px" src="https://www.logolynx.com/images/logolynx/8d/8dc68a8611a4cbdad08bb9c752796d3b.png">Icon Fonts</a> is licensed by CC BY 3.0</div>" alt="Bash" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
