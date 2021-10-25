@@ -6,7 +6,7 @@
 ### <div align="center">My name is Logan Vincent.  I am a sponge of a software developer and I'd love to learn something from you. </div>  
   
 
-- I am currently working on [Rancid Tomatillos](https://github.com/lokiandfengshui/rancid-tomatillos) and something I've named Digital-Shaman  
+- I am currently working on [Rancid Tomatillos](https://github.com/lokiandfengshui/rancid-tomatillos) and something I've named Digital-Shaman (contact for more info) 
   
 
 - I am currently strengthening my skills in React.js and branching out to try complimentary technologies  
