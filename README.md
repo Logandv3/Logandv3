@@ -12,7 +12,7 @@
 - I am currently strengthening my skills in React.js and branching out to try complimentary technologies  
   
 
-- 💡 Short term plans:  I plan to dig in to backend development a bit more to gain breadth of understanding. 
+- 💡 Short term plans:  I plan to dig in to backend development a bit more to gain a better breadth of understanding. 
  I am enthusiastic to learn how to manage the storage and flow of data better  
   
 
