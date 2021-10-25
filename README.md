@@ -102,7 +102,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-Please bear with me, I am in the process of creating my own personal site! 
+Please 🧸 with me, I am in the process of creating my own personal site! 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
