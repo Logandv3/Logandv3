@@ -6,11 +6,17 @@
 ### <div align="center">My name is Logan Vincent.  I am a sponge of a software developer and I'd love to learn something from you. </div>  
   
 
-- I am currently working on [Rancid Tomatillos](https://github.com/lokiandfengshui/rancid-tomatillos) and something I've named Digital-Shaman (contact for more info) 
-  
+## I am currently working on:
+- [I Wanna Live There](https://github.com/sarahrudy/i-wanna-live-there) A group project meant to stretch our knowledge and skills to help us grow.   
+- Something I've temporarily named Digital-Shaman (contact for more info). 
+- Creating a usable API and Database for a React.js app to utilize.  Primarily using Node.js, Express.js, Knex.js, PostgreSQL and hosted on Heroku.
 
-- I am currently strengthening my skills in React.js and branching out to try complimentary technologies  
+## I recently worked on:
+- [Rancid Tomatillos](https://github.com/lokiandfengshui/rancid-tomatillos) I have also forked my own copy and am adding new features.  
   
+  
+  
+### A little about me
 
 - 💡 Short term plans:  <br> I plan to dig in to backend development a bit more to gain a better breadth of understanding. 
  I am enthusiastic to learn how to manage the storage and flow of data better  
@@ -18,7 +24,7 @@
 
 - ❓ Do you have a question to ask me or knowledge to impart?  I genuinely invite you to reach out so we can chat!  
   
-- 💡 Useful Info About Me:  <br> I am fascinated by many science & engineering topics like applied physics, engineering and mathematics.  I have been intrigued by human health & physiology since my first class in highschool.  I am a proponent of supporting the mental health of family, friends and coworkers.  I am a strong believer and from my perspective have yet to be proven wrong that there is something valuable to learn from every person that I interact with regardless of their personal orientation, skill level, positivity, social, cheerful, wary, bitter, angry, jaded, nasty, uncooperative or negative that person may seem.
+- 💡 Useful Info About Me:  <br> I am fascinated by many science & engineering topics like especially physics, engineering and mathematics.  I have been intrigued by human health & physiology since my first class in highschool.  I am a proponent of supporting the mental health of family, friends and coworkers.  I am a strong believer (and have yet to be swayed from the belief) that there is something valuable to learn from every individual I interact with.  This is true regardless of their personal orientation, skill level, attitude or how social, cheerful, wary, bitter, angry, jaded, nasty, uncooperative or negative that person may seem.
 
 - 🍿 Unnecessary Fact About Me:  <br> My music collection is pretty diverse.  When playing on shuffle I frequently get the question, "What are we listening to right now?"  
   
@@ -110,11 +116,8 @@ Please 🧸 with me, I am in the process of creating my own personal site!
   
 
 <br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Logandv3&&style=flat-square" align="center" />
-</div>  
   
+
 
 <br/>  
 
