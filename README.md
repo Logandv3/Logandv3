@@ -11,7 +11,7 @@
 - Something I've temporarily named Digital-Shaman (contact for more info). 
 - Creating a usable API and Database for a React.js app to utilize.  Primarily using Node.js, Express.js, Knex.js, PostgreSQL and hosted on Heroku.
 
-## I recently worked on:
+## I have recently worked on:
 - [Rancid Tomatillos](https://github.com/lokiandfengshui/rancid-tomatillos) I have also forked my own copy and am adding new features.  
   
   
