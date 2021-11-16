@@ -1,6 +1,14 @@
 <div align="center">
 <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" align="center" style="width: 80%" />
 </div>  
+<div align="center">
+<a href="https://github.com/Logandv3" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/logan-vincent" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div> 
   
 
 ### <div align="center">My name is Logan Vincent.  I am a sponge of a software developer and I'd love to learn something from you. </div>  
