@@ -32,7 +32,7 @@
 
 - ❓ Do you have a question to ask me or knowledge to impart?  I genuinely invite you to reach out so we can chat!  
   
-- 💡 Useful Info About Me:  <br> I am fascinated by many science & engineering topics like especially physics, engineering and mathematics.  I have been intrigued by human health & physiology since my first class in highschool.  I am a proponent of supporting the mental health of family, friends and coworkers.  I am a strong believer (and have yet to be swayed from the belief) that there is something valuable to learn from every individual I interact with.  This is true regardless of their personal orientation, skill level, attitude or how social, cheerful, wary, bitter, angry, jaded, nasty, uncooperative or negative that person may seem.
+- 💡 Useful Info About Me:  <br> I am fascinated by many things but especially physics, engineering, computer science and mathematics.  I have been intrigued by human health & physiology since my first class in highschool.  I am a proponent of supporting the mental health of family, friends and coworkers.  I am a strong believer (and have yet to be swayed from the belief) that there is something valuable to learn from every individual I interact with.  This is true regardless of their personal orientation, skill level, attitude or how social, cheerful, wary, bitter, angry, jaded, nasty, uncooperative or negative that person may seem.
 
 - 🍿 Unnecessary Fact About Me:  <br> My music collection is pretty diverse.  When playing on shuffle I frequently get the question, "What are we listening to right now?"  
   
@@ -113,25 +113,3 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-Please 🧸 with me, I am in the process of creating my own personal site! 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
-
-<br/>  
-  
-
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
