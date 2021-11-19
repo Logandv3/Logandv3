@@ -64,14 +64,15 @@
 </td><td valign="top" width="33%">
 
 
-
 ### Backend  
 <div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/0/0e/K%27Nex_logo.svg" alt="Knex.js" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />    
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /> 
 <img style="margin: 10px" src="https://www.logolynx.com/images/logolynx/8d/8dc68a8611a4cbdad08bb9c752796d3b.png" alt="MATLAB" height="50" />
 
@@ -82,7 +83,7 @@
 ### DevOps & Other
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://seekvectorlogo.net/wp-content/uploads/2018/07/solidworks-vector-logo.png" alt="Git" height="50" />
+<img style="margin: 10px" src="https://seekvectorlogo.net/wp-content/uploads/2018/07/solidworks-vector-logo.png" alt="SolidWorks" height="50" />
 <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy5Q_sDaEDRi004Z0dhfnmMTVD-vbv90rJng&usqp=CAU" alt="Git" height="50" />
 </div>
 
