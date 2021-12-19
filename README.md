@@ -14,27 +14,32 @@
 ### <div align="center">My name is Logan Vincent.  I am a sponge of a software developer and I'd love to learn something from you. </div>  
   
 
-## I am currently working on:
-- [I Wanna Live There](https://github.com/sarahrudy/i-wanna-live-there) A group project meant to stretch our knowledge and skills to help us grow.   
+## I Am Currently Working On:
+- Building my own portfolio website.
+- Fixing bugs and adding to an existing app using React, Redux, NodeJS, ExpressJS, Sequelize, PostgreSQL to strengthen my full-stack skills.   
 - Something I've temporarily named Digital-Shaman (contact for more info). 
-- Creating a usable API and Database for a React.js app to utilize.  Primarily using Node.js, Express.js, Knex.js, PostgreSQL and hosted on Heroku.
+- A company website for a local business.
 
-## I have recently worked on:
-- [Rancid Tomatillos](https://github.com/lokiandfengshui/rancid-tomatillos) I have also forked my own copy and am adding new features.  
+## Some of My Recent Work:
+- [Escape the House!](https://pewpewpew-fe.herokuapp.com/) This simple puzzle/maze game was a front-end and back-end team collaboration in which we challenged ourselves to build something new to us using technologies we were unfamiliar with.  The front-end was built with React and Redux.  The back-end was built using Python and PostgreSQL.  Check out the repo's [here](https://github.com/PewPewPewTuring).
   
   
   
-### A little about me
+### A Little About Me:
 
-- 💡 Short term plans:  <br> I plan to dig in to backend development a bit more to gain a better breadth of understanding. 
- I am enthusiastic to learn how to manage the storage and flow of data better  
+- 💡 Short term plans:  <br> I am now actively looking for a job.  Know of any good opportunities?  Feel free to message [me](https://linkedin.com/in/logan-vincent)!     
   
-
-- ❓ Do you have a question to ask me or knowledge to impart?  I genuinely invite you to reach out so we can chat!  
-  
-- 💡 Useful Info About Me:  <br> I am fascinated by many things but especially physics, engineering, computer science and mathematics.  I have been intrigued by human health & physiology since my first class in highschool.  I am a proponent of supporting the mental health of family, friends and coworkers.  I am a strong believer (and have yet to be swayed from the belief) that there is something valuable to learn from every individual I interact with.  This is true regardless of their personal orientation, skill level, attitude or how social, cheerful, wary, bitter, angry, jaded, nasty, uncooperative or negative that person may seem.
-
-- 🍿 Unnecessary Fact About Me:  <br> My music collection is pretty diverse.  When playing on shuffle I frequently get the question, "What are we listening to right now?"  
+- 💡 Interests:  <br> I am fascinated by many things but especially science.  In particular I enjoy learning about physics, engineering, computer science and mathematics.  I love to be outdoors and often go hiking, camping, running, swimming, snowboarding/skiing, snowshoeing, exploring or just relaxing outside with my wife and our two dogs.  I love working with my hands and building/fixing things.  I have also been intrigued by human health & physiology since my first class in highschool.  
+ 
+- Values: <br> 
+  - I am a proponent of living a healthy lifestyle and do my my best to support the mental health of family, friends, coworkers, acquaintances or anyone else in need.    
+  - I believe all people are equally valid and should be treated with fairness, respect and acceptance of who they are.  Seeking to understand and support each individual and their differences provides an opportunity for humanity to increase our capabilities and become stronger, smarter, healthier and more effective.  
+  - I am a strong believer (and have yet to be swayed from the belief) that there is something valuable to learn from every individual I interact with.  This is true regardless of personal orientation, skill level, status, attitude or how intelligent, social, cheerful, wary, bitter, angry, jaded, nasty, uncooperative or negative that person may seem.
+    
+- My Non-Development Projects In the Works:  <br>
+  - Building my own speakers.
+  - Creating custom home automation using Raspberry Pi.
+  - Finishing my house basement and a bathroom remodel.
   
 
 <br/>  
@@ -96,9 +101,6 @@
 <div align="center">
 <a href="https://github.com/Logandv3" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/bearcaticus" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/logan-vincent" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
