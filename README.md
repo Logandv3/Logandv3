@@ -11,12 +11,12 @@
 </div> 
   
 
-### <div align="center">My name is Logan Vincent.  I am a sponge of a software developer and I'd love to learn something from you. </div>  
+### <div align="center">My name is Logan Vincent.  I am a sponge of a software developer and I'd love to learn something from you.  This is my main personal account.  I am also active on my other accounts for non-personal projects.</div>  
   
 
 ## I Am Currently Working On:
-- Building my own portfolio website.
-- Fixing bugs and adding to an existing app using React, Redux, NodeJS, ExpressJS, Sequelize, PostgreSQL to strengthen my full-stack skills.   
+- Building a proper portfolio website.
+- Contributing to an existing peer to peer messaging app.  This includes:  Fixing bugs.  Adding various message receipt features and others.  This project uses React, Redux, MaterialUI, NodeJS, Socket.io, ExpressJS, Sequelize, and PostgreSQL.   
 - Something I've temporarily named Digital-Shaman (contact for more info). 
 - A company website for a local business.
 
@@ -32,9 +32,9 @@
 - 💡 Interests:  <br> I am fascinated by many things but especially science.  In particular I enjoy learning about physics, engineering, computer science and mathematics.  I love to be outdoors and often go hiking, camping, running, swimming, snowboarding/skiing, snowshoeing, exploring or just relaxing outside with my wife and our two dogs.  I love working with my hands and building/fixing things.  I have also been intrigued by human health & physiology since my first class in highschool.  
  
 - Values: <br> 
-  - I am a proponent of living a healthy lifestyle and do my best to support the mental health of family, friends, coworkers, acquaintances or anyone else in need.    
+  - I am a proponent of living a healthy lifestyle and do my best to support the psychical and mental health of family, friends, coworkers, acquaintances or anyone else in need.    
   - I believe all people are equally valid and should be treated with fairness, respect and acceptance of who they are.  Seeking to understand and support each individual and their differences provides an opportunity for humanity to increase our capabilities and become stronger, smarter, healthier and more effective.  
-  - I am a strong believer (and have yet to be swayed from the belief) that there is something valuable to learn from every individual I interact with.  This is true regardless of personal orientation, skill level, status, attitude or how intelligent, social, cheerful, wary, bitter, angry, jaded, nasty, uncooperative or negative that person may seem.
+  - I am a strong believer (and have yet to be swayed from the belief) that there is something valuable to learn from every individual I interact with.  This is true regardless of personal orientation, skill level, status, attitude or how intelligent, social, cheerful, wary, bitter, angry, jaded, unpleasant, uncooperative or negative that person may seem.
     
 - My Non-Development Projects In the Works:  <br>
   - Building my own speakers.
