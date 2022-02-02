@@ -27,7 +27,7 @@
   
 ### A Little About Me:
 
-- 💡 Short term plans:  <br> I am now actively looking for a job.  Know of any good opportunities?  Feel free to message [me](https://linkedin.com/in/logan-vincent)!     
+- 💡 Short term plans:  <br> I am now actively looking for Frontend Engineer/Developer, Full Stack Engineer/Developer or possibly even Backend Engineer roles.  Know of any good opportunities?  Feel free to message [me](https://linkedin.com/in/logan-vincent)!     
   
 - 💡 Interests:  <br> I am fascinated by many things but especially science.  In particular I enjoy learning about physics, engineering, computer science and mathematics.  I love to be outdoors and often go hiking, camping, running, swimming, snowboarding/skiing, snowshoeing, exploring or just relaxing outside with my wife and our two dogs.  I love working with my hands and building/fixing things.  I have also been intrigued by human health & physiology since my first class in highschool.  
  
