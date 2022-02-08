@@ -54,7 +54,7 @@
 
 
 ## My Skill Set  
-<table width=100%>
+<table width="100%">
   <tr>
     <th>Frontend</th>
     <th>Backend</th>
@@ -114,7 +114,7 @@
   <a href="https://mui.com/">MaterialUI</a>
 </div>
 
-</td><td valign="top" width="33%">
+
 
 
 ### Backend  
@@ -129,7 +129,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /> 
 <img style="margin: 10px" src="https://www.logolynx.com/images/logolynx/8d/8dc68a8611a4cbdad08bb9c752796d3b.png" alt="MATLAB" height="50" />
 
-</td><td valign="top" width="33%">
+  </div>
 
 
 
@@ -140,21 +140,10 @@
 <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy5Q_sDaEDRi004Z0dhfnmMTVD-vbv90rJng&usqp=CAU" alt="Git" height="50" />
 </div>
 
-</td></tr></table>
 
 
-### Frontend   
-  - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-  - [React](https://reactjs.org/)  
-  - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-  - [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)  
-  - [Redux-Thunk](https://redux.js.org/)  
-  - [SocketIO](https://socket.io/)  
-  - [SASS/SCSS](https://sass-lang.com/)  
-  - [Lighthouse(accessibility)](https://developers.google.com/web/tools/lighthouse)  
-  - [Webpack](https://webpack.js.org/)  
-  - [ESLint](https://eslint.org/)  
-  - [MaterialUI](https://mui.com/)
+
+
  
 
 <br/>  
