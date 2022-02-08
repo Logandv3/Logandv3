@@ -61,34 +61,39 @@
     <th width="33%">Testing & Others</th>
   </tr>
   <tr>
-    <td>
-      <div align="center" justify-content="space-evenly">  
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>
-        <a href="https://reactjs.org/">React</a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS3</a> </br>
-      </div>
+    <td text-align="justify"> 
+      <p width="33%" padding="0px" margin="0px"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></p>
+      <p width="33%" padding="0px" margin="0px"><a href="https://reactjs.org/">React</a></p>
+      <p width="33%" padding="0px" margin="0px"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS3</a></p>
+      <p width="33%" padding="0px" margin="0px"><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">HTML5</a></p>
+      <p width="33%" padding="0px" margin="0px"><a href="https://redux.js.org/">Redux-Thunk</a></p>
+      <p width="33%" padding="0px" margin="0px"><a href="https://socket.io/">SocketIO</a></p>
+      <p width="33%" padding="0px" margin="0px"><a href="https://sass-lang.com/">SASS/SCSS</a></p>     
+      <p width="33%" padding="0px" margin="0px"><a href="https://developers.google.com/web/tools/lighthouse">Lighthouse</a></p> 
+      <p width="33%" padding="0px" margin="0px"><a href="https://webpack.js.org/">Webpack</a></p>
+      <p width="33%" padding="0px" margin="0px"><a href="https://eslint.org/">ESLint</a></p>
+      <p width="33%" padding="0px" margin="0px"><a href="https://mui.com/">MaterialUI</a></p>
     </td>
     <td>
       <div align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">HTML5</a> </br>
-        <a href="https://redux.js.org/">Redux/Thunk</a> </br>
+        <a href="https://nodejs.org/en/">Node.js</a>  
+        <a href="https://expressjs.com/">Express.js</a>
+        <a href="https://www.postgresql.org/">PostgreSQL</a>
+        <a href="https://sequelize.org/v7/">Sequelize</a>
+        <a href="https://knexjs.org/">Knex.js</a>
         <a href="https://socket.io/">SocketIO</a>
       </div>
     </td>
     <td>
       <div align="center">
-        <a href="https://sass-lang.com/">SASS/SCSS</a> </br>
-        <a href="https://developers.google.com/web/tools/lighthouse">Lighthouse(accessibility)</a> </br>
-        <a href="https://webpack.js.org/">Webpack</a>
-      </div>
-    <td>
-      <div align="center">
-        <a href="https://eslint.org/">ESLint</a> </br>
-        <a href="https://mui.com/">MaterialUI</a>
+        <a href="https://git-scm.com/">Git</a>
+        <a href="https://circleci.com/">CircleCI</a>
+        <a href="https://www.mathworks.com/products/matlab.html">MATLAB</a>
       </div>
     </td>
   </tr>
 </table>
+        
 
 
 ### Frontend  
@@ -119,15 +124,17 @@
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/0/0e/K%27Nex_logo.svg" alt="Knex.js" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />    
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /> 
-<img style="margin: 10px" src="https://www.logolynx.com/images/logolynx/8d/8dc68a8611a4cbdad08bb9c752796d3b.png" alt="MATLAB" height="50" />
+  <a href="https://nodejs.org/en/">Node.js</a>  
+  <a href="https://expressjs.com/">Express.js</a>
+  <a href="https://www.postgresql.org/">PostgreSQL</a>
+  
+  <a href="https://sequelize.org/v7/">Sequelize</a>
+  <a href="https://knexjs.org/">Knex.js</a>
+  <a href="https://www.mathworks.com/products/matlab.html">MATLAB</a>
+  <a href="https://socket.io/">SocketIO</a>
+  <a href="https://git-scm.com/">Git</a>
+  <a href="https://circleci.com/">CircleCI</a>
+  
 
   </div>
 
