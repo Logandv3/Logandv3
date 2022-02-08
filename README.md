@@ -61,9 +61,7 @@
 
 ### Frontend  
 <div align="center">  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>
-
-  <a href="https://reactjs.org/">React</a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>    <a href="https://reactjs.org/">React</a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS3</a>
   
