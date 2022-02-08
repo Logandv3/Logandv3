@@ -11,7 +11,7 @@
 </div> 
   
 
-### <div align="center">My name is Logan Vincent.  I am a sponge of a software developer and I'd love to learn something from you.  This is my main personal account.  I am also active on other accounts for non-personal projects.  [New Tech Challenge Acct](https://github.com/Logan5Run/Logan5Run)</div>  
+### <div align="center">My name is Logan Vincent.  I am a sponge of a software developer and I'd love to learn something from you.  This is my main personal account.  I am also active on other accounts for non-personal projects.  [New Tech Challenge Acct](https://github.com/Logan5Run)</div>  
   
 
 ## I Am Currently Working On:
