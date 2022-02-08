@@ -58,24 +58,37 @@
 ## My Skill Set  
 <table>
   <tr>
-    <td valign="top" width="33%">### Frontend</td>
-    <td valign="top" width="33%">### Backend</td>
-    <td valign="top" width="33%">### Testing & Others</td>
+    <th>### Frontend</th>
+    <th>### Backend</th>
+    <th>### Testing & Others</th>
   </tr>
   <tr>
-    <div align="center">  
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>    
-      <a href="https://reactjs.org/">React</a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS3</a>
-      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">HTML5</a>
-      <a href="https://redux.js.org/">Redux/Thunk</a>
-      <a href="https://socket.io/">SocketIO</a>
-      <a href="https://sass-lang.com/">SASS/SCSS</a>
-      <a href="https://developers.google.com/web/tools/lighthouse">Lighthouse(accessibility)</a>
-      <a href="https://webpack.js.org/">Webpack</a>
-      <a href="https://eslint.org/">ESLint</a>
-      <a href="https://mui.com/">MaterialUI</a>
-    </div>
+    <td>
+      <div align="center">  
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>    
+        <a href="https://reactjs.org/">React</a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS3</a>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">HTML5</a>
+        <a href="https://redux.js.org/">Redux/Thunk</a>
+        <a href="https://socket.io/">SocketIO</a>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <a href="https://sass-lang.com/">SASS/SCSS</a>
+        <a href="https://developers.google.com/web/tools/lighthouse">Lighthouse(accessibility)</a>
+        <a href="https://webpack.js.org/">Webpack</a>
+      </div>
+    <td>
+      <div align="center">
+        <a href="https://eslint.org/">ESLint</a>
+        <a href="https://mui.com/">MaterialUI</a>
+      </div>
+    </td>
   </tr>
 </table>
 
