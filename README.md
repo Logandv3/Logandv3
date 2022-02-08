@@ -11,13 +11,16 @@
 </div> 
   
 
-### <div align="center">My name is Logan Vincent.  I am a sponge of a software developer and I'd love to learn something from you.  This is my main personal account.  I am also active on other accounts for non-personal projects.  [New Tech Challenge Acct](https://github.com/Logan5Run)</div>  
+### <div align="center">My name is Logan Vincent.  I am a sponge of a software developer and I'd love to learn something from you.  This is my main personal account.  I am also active on other accounts for non-personal projects.  [New Tech Challenge Acct.](https://github.com/Logan5Run)</div>  
   
 
 ## I Am Currently Working On:
 - Building a proper portfolio website.
-- Contributing to an existing peer to peer messaging app.  This includes:  Fixing bugs, unread message handling, message receipt features and more.  This project uses React, Redux, MaterialUI, NodeJS, Socket.io, ExpressJS, Sequelize, and PostgreSQL.   
+
+- Contributing to an existing peer to peer messaging app.  This includes:  Fixing bugs, unread message handling, message receipt features and more.  This project uses React, Redux, MaterialUI, NodeJS, Socket.io, ExpressJS, Sequelize, and PostgreSQL. 
+  
 - Something I've temporarily named Digital-Shaman (contact for more info). 
+
 - A company website for a local business.
 
 ## Some of My Recent Work:
@@ -32,13 +35,18 @@
 - 💡 Interests:  <br> I am fascinated by many things, especially science.  In particular I enjoy learning about physics, engineering, computer science and mathematics.  I love to be outdoors and often go hiking, camping, running, swimming, snowboarding/skiing, snowshoeing, exploring or just relaxing outside with my wife and our two dogs.  I love working with my hands and building/fixing things.  I have also been intrigued by human health & physiology since my first class in highschool.  
  
 - Values: <br> 
-  - I am a proponent of living a healthy lifestyle and do my best to support the physical and mental health of family, friends, coworkers, acquaintances or anyone else in need.    
-  - I believe all people are equally valid and should be treated with fairness, respect and acceptance of who they are.  Seeking to understand and support each individual and their differences provides an opportunity for humanity to increase our capabilities and become stronger, smarter, healthier and more effective.  
+  - I am a proponent of living a healthy lifestyle and do my best to support the physical and mental health of family, friends, coworkers, acquaintances or anyone else in need. 
+     
+  - I believe all people are equally valid and should be treated with fairness, respect and acceptance of who they are.  Seeking to understand and support each individual and their differences provides an opportunity for humanity to increase our capabilities and become stronger, smarter, healthier and more effective. 
+   
   - I am a strong believer (and have yet to be swayed from the belief) that there is something valuable to learn from every individual I interact with.  This is true regardless of personal orientation, skill level, status, attitude or how intelligent, social, cheerful, wary, bitter, angry, jaded, unpleasant, uncooperative or negative that person may seem.
     
-- My Non-Development Projects In the Works:  <br>
+    
+### My Non-Development Projects In the Works:  <br>
   - Building my own speakers.
+  
   - Creating custom home automation using Raspberry Pi.
+  
   - Finishing my house basement and a bathroom remodel.
   
 
@@ -49,23 +57,19 @@
 <table><tr><td valign="top" width="33%">
 
 
-
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="Mocha" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+  - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [React](https://reactjs.org/)
+  - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  - [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+  - [Redux-Thunk](https://redux.js.org/)
+  - [SocketIO](https://socket.io/)
+  - [SASS/SCSS](https://sass-lang.com/)
+  - [Lighthouse(accessibility)](https://developers.google.com/web/tools/lighthouse)
+  - [Webpack](https://webpack.js.org/)
+  - [ESLint](https://eslint.org/)
+  - [MaterialUI](https://mui.com/)
 </div>
 
 </td><td valign="top" width="33%">
