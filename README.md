@@ -11,25 +11,25 @@
 </div> 
   
 
-### <div align="center">My name is Logan Vincent.  I am a sponge of a software developer and I'd love to learn something from you.  This is my main personal account.  I am also active on my other accounts for non-personal projects.</div>  
+### <div align="center">My name is Logan Vincent.  I am a sponge of a software developer and I'd love to learn something from you.  This is my main personal account.  I am also active on other accounts for non-personal projects.  [New Tech Challenge Acct](https://github.com/Logan5Run/Logan5Run)</div>  
   
 
 ## I Am Currently Working On:
 - Building a proper portfolio website.
-- Contributing to an existing peer to peer messaging app.  This includes:  Fixing bugs.  Adding various message receipt features and others.  This project uses React, Redux, MaterialUI, NodeJS, Socket.io, ExpressJS, Sequelize, and PostgreSQL.   
+- Contributing to an existing peer to peer messaging app.  This includes:  Fixing bugs, unread message handling, message receipt features and more.  This project uses React, Redux, MaterialUI, NodeJS, Socket.io, ExpressJS, Sequelize, and PostgreSQL.   
 - Something I've temporarily named Digital-Shaman (contact for more info). 
 - A company website for a local business.
 
 ## Some of My Recent Work:
-- [Escape the House!](https://pewpewpew-fe.herokuapp.com/) This simple puzzle/maze game was a front-end and back-end team collaboration in which we challenged ourselves to build something new to us using technologies we were unfamiliar with.  The front-end was built with React and Redux.  The back-end was built using Python and PostgreSQL.  Check out the repo's [here](https://github.com/PewPewPewTuring).
+- [Escape the House!](https://pewpewpew-fe.herokuapp.com/) This simple puzzle/maze game was a front-end and back-end team collaboration in which we challenged ourselves to build something new to us, with technologies we were unfamiliar with.  The front-end was built with React and Redux.  The back-end was built using Python and PostgreSQL.  Check out the repo's [here](https://github.com/PewPewPewTuring).
   
   
   
 ### A Little About Me:
 
-- 💡 Short term plans:  <br> I am now actively looking for Frontend Engineer/Developer, Full Stack Engineer/Developer or possibly even Backend Engineer roles.  Know of any good opportunities?  Feel free to message [me](https://linkedin.com/in/logan-vincent)!     
+- 💡 Short term plans:  <br> I am now actively looking for Frontend Engineer/Developer, Full Stack Engineer/Developer Backend Engineer roles.  Know of any good opportunities?  Feel free to message [me](https://linkedin.com/in/logan-vincent)!     
   
-- 💡 Interests:  <br> I am fascinated by many things but especially science.  In particular I enjoy learning about physics, engineering, computer science and mathematics.  I love to be outdoors and often go hiking, camping, running, swimming, snowboarding/skiing, snowshoeing, exploring or just relaxing outside with my wife and our two dogs.  I love working with my hands and building/fixing things.  I have also been intrigued by human health & physiology since my first class in highschool.  
+- 💡 Interests:  <br> I am fascinated by many things, especially science.  In particular I enjoy learning about physics, engineering, computer science and mathematics.  I love to be outdoors and often go hiking, camping, running, swimming, snowboarding/skiing, snowshoeing, exploring or just relaxing outside with my wife and our two dogs.  I love working with my hands and building/fixing things.  I have also been intrigued by human health & physiology since my first class in highschool.  
  
 - Values: <br> 
   - I am a proponent of living a healthy lifestyle and do my best to support the physical and mental health of family, friends, coworkers, acquaintances or anyone else in need.    
