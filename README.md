@@ -56,9 +56,9 @@
 ## My Skill Set  
 <table width="100%">
   <tr>
-    <th>Frontend</th>
-    <th>Backend</th>
-    <th>Testing & Others</th>
+    <th width="33%">Frontend</th>
+    <th width="33%">Backend</th>
+    <th width="33%">Testing & Others</th>
   </tr>
   <tr>
     <td>
