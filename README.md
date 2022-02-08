@@ -57,7 +57,17 @@
 
 
 ### Frontend   
-  [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [React](https://reactjs.org/)  [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)  [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)  [Redux-Thunk](https://redux.js.org/)  [SocketIO](https://socket.io/)  [SASS/SCSS](https://sass-lang.com/)  [Lighthouse(accessibility)](https://developers.google.com/web/tools/lighthouse)  [Webpack](https://webpack.js.org/)  [ESLint](https://eslint.org/)  [MaterialUI](https://mui.com/)
+  - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+  - [React](https://reactjs.org/)  
+  - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+  - [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)  
+  - [Redux-Thunk](https://redux.js.org/)  
+  - [SocketIO](https://socket.io/)  
+  - [SASS/SCSS](https://sass-lang.com/)  
+  - [Lighthouse(accessibility)](https://developers.google.com/web/tools/lighthouse)  
+  - [Webpack](https://webpack.js.org/)  
+  - [ESLint](https://eslint.org/)  
+  - [MaterialUI](https://mui.com/)
 
  
 
