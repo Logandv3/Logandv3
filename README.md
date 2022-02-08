@@ -65,27 +65,27 @@
   <tr>
     <td>
       <div align="center">  
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>    
-        <a href="https://reactjs.org/">React</a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a> </br>   
+        <a href="https://reactjs.org/">React</a> </br> 
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS3</a>
       </div>
     </td>
     <td>
       <div align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">HTML5</a>
-        <a href="https://redux.js.org/">Redux/Thunk</a>
+        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">HTML5</a> </br>
+        <a href="https://redux.js.org/">Redux/Thunk</a> </br>
         <a href="https://socket.io/">SocketIO</a>
       </div>
     </td>
     <td>
       <div align="center">
-        <a href="https://sass-lang.com/">SASS/SCSS</a>
-        <a href="https://developers.google.com/web/tools/lighthouse">Lighthouse(accessibility)</a>
+        <a href="https://sass-lang.com/">SASS/SCSS</a> </br>
+        <a href="https://developers.google.com/web/tools/lighthouse">Lighthouse(accessibility)</a> </br>
         <a href="https://webpack.js.org/">Webpack</a>
       </div>
     <td>
       <div align="center">
-        <a href="https://eslint.org/">ESLint</a>
+        <a href="https://eslint.org/">ESLint</a> </br>
         <a href="https://mui.com/">MaterialUI</a>
       </div>
     </td>
