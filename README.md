@@ -54,18 +54,18 @@
 
 
 ## My Skill Set  
-
-## My Skill Set  
-<table>
+<table width=100%>
   <tr>
-    <th>### Frontend</th>
-    <th>### Backend</th>
-    <th>### Testing & Others</th>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Testing & Others</th>
   </tr>
   <tr>
     <td>
-      <div align="center">  
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>     <a href="https://reactjs.org/">React</a>    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS3</a> </br>
+      <div align="center" justify-content="space-evenly">  
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>
+        <a href="https://reactjs.org/">React</a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS3</a> </br>
       </div>
     </td>
     <td>
