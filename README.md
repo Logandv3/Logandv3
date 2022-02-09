@@ -47,116 +47,64 @@
   
   - Creating custom home automation using Raspberry Pi.
   
-  - Finishing my house basement and a bathroom remodel.
+  - Finishing my house basement and a bathroom remodel.  <br>
   
 
-<br/>  
 
 
-## My Skill Set  
-<table width="100%">
-  <tr>
-    <th width="33%">Frontend</th>
-    <th width="33%">Backend</th>
-    <th width="33%">Testing & Others</th>
-  </tr>
-  <tr>
-    <td text-align="justify"> 
-      <p width="33%" padding="0px" margin="0px"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></p>
-      <p width="33%" padding="0px" margin="0px"><a href="https://reactjs.org/">React</a></p>
-      <p width="33%" padding="0px" margin="0px"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS3</a></p>
-      <p width="33%" padding="0px" margin="0px"><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">HTML5</a></p>
-      <p width="33%" padding="0px" margin="0px"><a href="https://redux.js.org/">Redux-Thunk</a></p>
-      <p width="33%" padding="0px" margin="0px"><a href="https://socket.io/">SocketIO</a></p>
-      <p width="33%" padding="0px" margin="0px"><a href="https://sass-lang.com/">SASS/SCSS</a></p>     
-      <p width="33%" padding="0px" margin="0px"><a href="https://developers.google.com/web/tools/lighthouse">Lighthouse</a></p> 
-      <p width="33%" padding="0px" margin="0px"><a href="https://webpack.js.org/">Webpack</a></p>
-      <p width="33%" padding="0px" margin="0px"><a href="https://eslint.org/">ESLint</a></p>
-      <p width="33%" padding="0px" margin="0px"><a href="https://mui.com/">MaterialUI</a></p>
-    </td>
-    <td>
-      <div align="center">
-        <a href="https://nodejs.org/en/">Node.js</a>  
-        <a href="https://expressjs.com/">Express.js</a>
-        <a href="https://www.postgresql.org/">PostgreSQL</a>
-        <a href="https://sequelize.org/v7/">Sequelize</a>
-        <a href="https://knexjs.org/">Knex.js</a>
-        <a href="https://socket.io/">SocketIO</a>
-      </div>
-    </td>
-    <td>
-      <div align="center">
-        <a href="https://git-scm.com/">Git</a>
-        <a href="https://circleci.com/">CircleCI</a>
-        <a href="https://www.mathworks.com/products/matlab.html">MATLAB</a>
-      </div>
-    </td>
-  </tr>
-</table>
-        
+<div align="center">
+  
 
+## My Skill Set
 
-### Frontend  
-<div align="center">  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>    <a href="https://reactjs.org/">React</a>
   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS3</a>
   
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">HTML5</a>
-  
-  <a href="https://redux.js.org/">Redux/Thunk</a>
-  
-  <a href="https://socket.io/">SocketIO</a>
-  
-  <a href="https://sass-lang.com/">SASS/SCSS</a>
-  
-  <a href="https://developers.google.com/web/tools/lighthouse">Lighthouse(accessibility)</a>
-
-  <a href="https://webpack.js.org/">Webpack</a>
-  
-  <a href="https://eslint.org/">ESLint</a>
-  
-  <a href="https://mui.com/">MaterialUI</a>
+<table align=''>
+<tr align = 'center'>
+  <th>Frontend</th>
+  <th>Backend</th>
+  <th>Testing & Others</th>
+</tr>
+<tr>
+  <td style = 'width:33%'>
+    <ul>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></li>
+      <li><a href="https://reactjs.org/">React</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS3</a></li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">HTML5</a></li>
+      <li><a href="https://redux.js.org/">Redux-Thunk</a></li>
+      <li><a href="https://socket.io/">SocketIO</a></li>
+      <li><a href="https://sass-lang.com/">SASS/SCSS</a></li>    
+      <li><a href="https://developers.google.com/web/tools/lighthouse">Lighthouse</a></li>
+      <li><a href="https://webpack.js.org/">Webpack</a></li> 
+      <li><a href="https://eslint.org/">ESLint</a></li>
+      <li><a href="https://mui.com/">MaterialUI</a></li>
+    </ul>
+  </td>
+  <td style = 'width:33%'>
+    <ul>
+      <li><a href="https://nodejs.org/en/">Node.js</a></li>  
+      <li><a href="https://expressjs.com/">Express.js</a></li>
+      <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+      <li><a href="https://sequelize.org/v7/">Sequelize</a></li>
+      <li><a href="https://knexjs.org/">Knex.js</a></li>
+      <li><a href="https://socket.io/">SocketIO</a></li>
+    </ul>
+  </td>
+  <td style = 'width:33%'>
+    <ul>
+      <li><a href="https://git-scm.com/">Git</a></li>
+      <li><a href="https://circleci.com/">CircleCI</a></li>
+      <li><a href="https://www.mathworks.com/products/matlab.html">MATLAB</a></li>
+    </ul>
+  </td>
+</tr>
+</table>    
 </div>
-
-
-
-
-### Backend  
-<div align="center">  
-  <a href="https://nodejs.org/en/">Node.js</a>  
-  <a href="https://expressjs.com/">Express.js</a>
-  <a href="https://www.postgresql.org/">PostgreSQL</a>
-  
-  <a href="https://sequelize.org/v7/">Sequelize</a>
-  <a href="https://knexjs.org/">Knex.js</a>
-  <a href="https://www.mathworks.com/products/matlab.html">MATLAB</a>
-  <a href="https://socket.io/">SocketIO</a>
-  <a href="https://git-scm.com/">Git</a>
-  <a href="https://circleci.com/">CircleCI</a>
-  
-
-  </div>
-
-
-
-### DevOps & Other
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://seekvectorlogo.net/wp-content/uploads/2018/07/solidworks-vector-logo.png" alt="SolidWorks" height="50" />
-<img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy5Q_sDaEDRi004Z0dhfnmMTVD-vbv90rJng&usqp=CAU" alt="Git" height="50" />
-</div>
-
-
-
-
-
- 
-
-<br/>  
 
 
 ## Connect with me  
+
 <div align="center">
 <a href="https://github.com/Logandv3" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
