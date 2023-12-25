@@ -11,17 +11,15 @@
 </div> 
   
 
-### <div align="center">My name is Logan Vincent.  I am a curious and open to new experiences and I'd love to learn something from you.  This is my main personal account.  [New Tech Challenge Acct.](https://github.com/Logan5Run)</div>  
+### <div align="center">My name is Logan Vincent.  This is my main personal account.  I am a curious and open to new experiences and I'd love to learn something from you.  [New Tech Challenge Acct.](https://github.com/Logan5Run)</div>  
   
 
 ## I Am Currently Working On:
-- Building a proper portfolio website.
+- Building a proper portfolio website.  
 
-- Contributing to an existing peer to peer messaging app.  This includes:  Fixing bugs, unread message handling, message receipt features and more.  This project uses React, Redux, MaterialUI, NodeJS, Socket.io, ExpressJS, Sequelize, and PostgreSQL. 
-  
-- Something I've temporarily named Digital-Shaman (contact for more info). 
+- Researching and planning for an app for a small business concerning dogs.
 
-- A company website for a local business.
+- A website for guided introspection.
 
 ## Some of My Recent Work:
 - [Escape the House!](https://pewpewpew-fe.herokuapp.com/) This simple puzzle/maze game was a front-end and back-end team collaboration in which we challenged ourselves to build something new to us, with technologies we were unfamiliar with.  The front-end was built with React and Redux.  The back-end was built using Python and PostgreSQL.  Check out the repo's [here](https://github.com/PewPewPewTuring).
@@ -30,7 +28,7 @@
   
 ### A Little About Me:
 
-- 💡 Short term plans:  <br> I am now actively looking for Frontend Engineer/Developer, Full Stack Engineer/Developer Backend Engineer roles.  Know of any good opportunities?  Feel free to message [me](https://linkedin.com/in/logan-vincent)!     
+- 💡 Short term plans:  <br> I am currently an associate engineer with Wells Fargo, but I am now actively considering other opportunites.  I have mostly been implementing infrastructure code and working with Microsoft Azure, but I wouldn't mind returning to Frontend development, full stack or backend roles.  Know of any good opportunities?  Feel free to message [me](https://linkedin.com/in/logan-vincent)!     
   
 - 💡 Interests:  <br> I am fascinated by many things, especially science.  In particular I enjoy learning about physics, engineering, computer science and mathematics.  I love to be outdoors and often go hiking, camping, running, swimming, snowboarding/skiing, snowshoeing, exploring or just relaxing outside with my wife and our two dogs.  I love working with my hands and building/fixing things.  I have also been intrigued by human health & physiology since my first class in highschool.  
  
@@ -44,10 +42,10 @@
     
 ### My Non-Development Projects In the Works:  <br>
   - Building my own speakers.
+
+  - Remodeling my kitchen.
   
-  - Creating custom home automation using Raspberry Pi.
-  
-  - Finishing my house basement and a bathroom remodel.  <br>
+  - Creating custom home automation using Raspberry Pi. <br>
   
 
 
@@ -94,6 +92,8 @@
   <td style = 'width:33%'>
     <ul>
       <li><a href="https://git-scm.com/">Git</a></li>
+      <li><a href="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg">MATLAB</a></li>
+      <li><a href=" https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg">MATLAB</a></li>
       <li><a href="https://circleci.com/">CircleCI</a></li>
       <li><a href="https://www.mathworks.com/products/matlab.html">MATLAB</a></li>
     </ul>
@@ -114,12 +114,6 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Logandv3&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
