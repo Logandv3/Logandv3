@@ -15,9 +15,10 @@
   
 
 ## I Am Currently Working On:
-- Building a proper portfolio website.  
 
-- Researching and planning for an app for a small business concerning dogs.
+- Researching and developing an app for coordinating dog walks.
+
+- Building a proper portfolio website.
 
 - A website for guided introspection.
 
