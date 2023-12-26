@@ -11,7 +11,7 @@
 </div> 
   
 
-### <div align="center">My name is Logan Vincent.  This is my main personal account.  I am a curious and open to new experiences and I'd love to learn something from you.  [New Tech Challenge Acct.](https://github.com/Logan5Run)</div>  
+### <div align="center">My name is Logan Vincent.  This is my main personal account.  I am a curious and open to new experiences and I'd love to learn something from you.</div>  
   
 
 ## I Am Currently Working On:
