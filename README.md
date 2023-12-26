@@ -92,8 +92,8 @@
   <td style = 'width:33%'>
     <ul>
       <li><a href="https://git-scm.com/">Git</a></li>
-      <li><a href="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg">MATLAB</a></li>
-      <li><a href=" https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg">MATLAB</a></li>
+      <li><a href="https://www.terraform.io/">Terraform</a></li>
+      <li><a href="https://azure.microsoft.com/en-us/">Microsoft Azure</a></li>
       <li><a href="https://circleci.com/">CircleCI</a></li>
       <li><a href="https://www.mathworks.com/products/matlab.html">MATLAB</a></li>
     </ul>
