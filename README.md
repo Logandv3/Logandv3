@@ -16,7 +16,7 @@
 
 ## I Am Currently Working On:
 
-- Researching and developing an app for coordinating dog walks.
+- Researching and developing a referral management app for a hospice company I volunteer at.
 
 - Building a proper portfolio website.
 
