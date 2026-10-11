@@ -11,45 +11,20 @@
 </div> 
   
 
-### <div align="center">My name is Logan Vincent.  This is my main personal account.  I am a curious and open to new experiences and I'd love to learn something from you.</div>  
-  
-
-## I Am Currently Working On:
-
-- Researching and developing a referral management app for a hospice company I volunteer at.
-
-- Building a proper portfolio website.
-
-- A website for guided introspection.
-
-## Some of My Recent Work:
-- [Escape the House!](https://pewpewpew-fe.herokuapp.com/) This simple puzzle/maze game was a front-end and back-end team collaboration in which we challenged ourselves to build something new to us, with technologies we were unfamiliar with.  The front-end was built with React and Redux.  The back-end was built using Python and PostgreSQL.  Check out the repo's [here](https://github.com/PewPewPewTuring).
-  
-  
+### <div align="center">My name is Logan Vincent. I am a curious and open to new experiences and I'd love to learn something from you.</div>  
   
 ### A Little About Me:
+[My LinkedIn](https://linkedin.com/in/logan-vincent)
 
-- 💡 Short term plans:  <br> I am currently an associate engineer with Wells Fargo, but I am now actively considering other opportunites.  I have mostly been implementing infrastructure code and working with Microsoft Azure, but I wouldn't mind returning to Frontend development, full stack or backend roles.  Know of any good opportunities?  Feel free to message [me](https://linkedin.com/in/logan-vincent)!     
+- 💡 Current Role:  <br> I'm a developer for The Pennant Group.  They own home health, hospice, home care and assisted livings across the U.S.  I help create and maintain apps that allow them to provide life changing care more effectively.  I've had the opportunity to work on apps focused on both finances and clinical/patient care.
+- Previous Role: <br> I was an associate engineer with Wells Fargo in the business technology area.  It was a hybrid role that primarily included implementing infrastructure with Terraform and Microsoft Azure for a new application and managing change processes.
   
-- 💡 Interests:  <br> I am fascinated by many things, especially science.  In particular I enjoy learning about physics, engineering, computer science and mathematics.  I love to be outdoors and often go hiking, camping, running, swimming, snowboarding/skiing, snowshoeing, exploring or just relaxing outside with my wife and our two dogs.  I love working with my hands and building/fixing things.  I have also been intrigued by human health & physiology since my first class in highschool.  
+- 💡 Interests:  <br> I enjoy learning about physics, engineering, computer science and mathematics.  I love to be outdoors and often go hiking, camping, running, swimming, snowboarding/skiing, snowshoeing, exploring or just hanging with my family.  I love working with my hands and building/fixing things.  
  
 - Values: <br> 
-  - I am a proponent of living a healthy lifestyle and do my best to support the physical and mental health of family, friends, coworkers, acquaintances or anyone else in need. 
-     
-  - I believe all people are equally valid and should be treated with fairness, respect and acceptance of who they are.  Seeking to understand and support each individual and their differences provides an opportunity for humanity to increase our capabilities and become stronger, smarter, healthier and more effective. 
-   
-  - I am a strong believer (and have yet to be swayed from the belief) that there is something valuable to learn from every individual I interact with.  This is true regardless of personal orientation, skill level, status, attitude or how intelligent, social, cheerful, wary, bitter, angry, jaded, unpleasant, uncooperative or negative that person may seem.
+  - I try my best to treat everyone fair and with respect.  I also believe that there is something valuable to be learned from every individual person.
     
-    
-### My Non-Development Projects In the Works:  <br>
-  - Building my own speakers.
-
-  - Remodeling my kitchen.
   
-  - Creating custom home automation using Raspberry Pi. <br>
-  
-
-
 
 <div align="center">
   
